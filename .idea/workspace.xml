@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8f48ffd-c72e-4734-b33d-77acf2b26fa6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/aa.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人中心-信息发布.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/供应商.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/关于我们.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/发布信息-我的信息.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/成功案例.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/招聘信息.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/续费.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/行业动态.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/行业动态详情.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/需求大厅.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/需求大厅详情.html" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\css\headfoot.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\css\second.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\foot.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\head.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\h\u=4254932828,2021369639&amp;fm=26&amp;gp=0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\erwei.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\footbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\logo-ph.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\navbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\new.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\biao.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\help_ral.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\iconAccount.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\iconMenu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\tiny-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\xmal_down.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\index\wl\xmal_up.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\ab-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\ab-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\adr.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\bz-1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\bz-2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\bz-3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\bz-4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\bz-5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\detal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\erw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\fen-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\fen-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\fen-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\fen-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\fen-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\gong.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\jian.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\login-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\new-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\nnew.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\ren.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\renbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\scimg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\sebanner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\tel.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\tou-img.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\wei.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\yan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhengsghu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhirt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-10.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-6.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-7.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-8.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhiz-9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\second\zhizbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-企业询证-已下载订单.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-企业询证-查看订单.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-发布信息-人才挂靠.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-发布信息-企业寻证.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-发布信息-服务信息.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-发布信息-证书培训.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-发布信息-资质出售.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-服务信息-我的信息.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-订单管理-已下载订单.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-证书培训-已下载订单.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-证书培训-查看订单.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-账号管理-个人资料.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\个人中心-资质出售-我的出售.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\中介合作.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\人才挂靠.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\人才证书-查询结果.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\企业寻证.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\手机端个人界面.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\新闻资讯-详情页.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\新闻资讯.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\联系我们-常见问题.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\联系我们-意见反馈.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\联系我们-联系方式.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\证书培训.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\证书查询.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\资质交易-详情页.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\资质交易.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\资质分类.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\资质办理-手机端搜索.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\资质办理.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/h.css" afterPath="$PROJECT_DIR$/css/h.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/left.html" afterPath="$PROJECT_DIR$/left.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/个人中心-订单管理.html" afterPath="$PROJECT_DIR$/个人中心-订单管理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/个人中心-账号管理-修改密码.html" afterPath="$PROJECT_DIR$/个人中心-账号管理-修改密码.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/个人中心-账号管理-公司资料.html" afterPath="$PROJECT_DIR$/个人中心-账号管理-公司资料.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/个人中心-账号管理-实名认证.html" afterPath="$PROJECT_DIR$/个人中心-账号管理-实名认证.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/个人中心.html" afterPath="$PROJECT_DIR$/个人中心.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/注册.html" afterPath="$PROJECT_DIR$/注册.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/登录.html" afterPath="$PROJECT_DIR$/登录.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/联系我们.html" afterPath="$PROJECT_DIR$/联系我们.html" />
+      <change type="MOVED" beforePath="E:\djj_work\djjwork\work\华夏团餐\tuancan\.idea\zhongqingshangkun.iml" afterPath="$PROJECT_DIR$/.idea/tuancan.iml" />
+    </list>
+    <ignored path="zhongqingshangkun.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="zhongqingshangkun" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="需求大厅详情.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/需求大厅详情.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.70011276">
+              <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="行业动态.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/行业动态.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-30.741936">
+              <caret line="156" column="22" selection-start-line="48" selection-start-column="16" selection-end-line="156" selection-end-column="22" />
+              <folding>
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aa.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/aa.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2977" column="27" selection-start-line="2977" selection-start-column="27" selection-end-line="2977" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/中国设计/index.css" />
+        <option value="$PROJECT_DIR$/个人中心-订单管理-已下载订单.html" />
+        <option value="$PROJECT_DIR$/个人中心-资质出售-我的出售.html" />
+        <option value="$USER_HOME$/Desktop/中国设计/hleft.html" />
+        <option value="$PROJECT_DIR$/找回密码.html" />
+        <option value="$PROJECT_DIR$/找回密码 -重置成功.html" />
+        <option value="$PROJECT_DIR$/找回密码 -验证身份.html" />
+        <option value="$PROJECT_DIR$/找回密码 -重置密码.html" />
+        <option value="$PROJECT_DIR$/个人中心-发布信息-服务信息.html" />
+        <option value="$PROJECT_DIR$/个人中心-账号管理-个人资料.html" />
+        <option value="$PROJECT_DIR$/资质办理-手机端搜索结果.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/headfoot.css" />
+        <option value="$PROJECT_DIR$/head.html" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/head.html" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/headfoot.css" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/index.html" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/index.css" />
+        <option value="$PROJECT_DIR$/资质交易-详情页.html" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/zz_banli.html" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/second.css" />
+        <option value="$PROJECT_DIR$/资质交易.html" />
+        <option value="$USER_HOME$/Desktop/中青尚坤/zz_jiaoyi.html" />
+        <option value="$USER_HOME$/Desktop/人人梦/index.css" />
+        <option value="$USER_HOME$/Desktop/人人梦/pc/index.css" />
+        <option value="$USER_HOME$/Desktop/艺高/second.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/second.css" />
+        <option value="$PROJECT_DIR$/登录.html" />
+        <option value="$PROJECT_DIR$/注册.html" />
+        <option value="$PROJECT_DIR$/供应商.html" />
+        <option value="$PROJECT_DIR$/成功案例.html" />
+        <option value="$PROJECT_DIR$/行业动态.html" />
+        <option value="$PROJECT_DIR$/行业动态详情.html" />
+        <option value="$PROJECT_DIR$/联系我们.html" />
+        <option value="$PROJECT_DIR$/关于我们.html" />
+        <option value="$PROJECT_DIR$/招聘信息.html" />
+        <option value="$PROJECT_DIR$/个人中心.html" />
+        <option value="$PROJECT_DIR$/个人中心-账号管理-修改密码.html" />
+        <option value="$PROJECT_DIR$/个人中心-账号管理-实名认证.html" />
+        <option value="$PROJECT_DIR$/left.html" />
+        <option value="$PROJECT_DIR$/个人中心-信息发布.html" />
+        <option value="$PROJECT_DIR$/个人中心-账号管理-公司资料.html" />
+        <option value="$PROJECT_DIR$/发布信息-我的信息.html" />
+        <option value="$PROJECT_DIR$/个人中心-订单管理.html" />
+        <option value="$PROJECT_DIR$/css/h.css" />
+        <option value="$PROJECT_DIR$/续费.html" />
+        <option value="$PROJECT_DIR$/续费2.html" />
+        <option value="$PROJECT_DIR$/需求大厅.html" />
+        <option value="$PROJECT_DIR$/css/aa.css" />
+        <option value="$PROJECT_DIR$/需求大厅详情.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tuancan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tuancan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tuancan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../beforework/中青尚坤" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\djj_work\djjwork\work\华夏团餐\tuancan" />
+      <recent name="F:\git\zhongqingshangkun\images\second" />
+      <recent name="F:\git\zhongqingshangkun\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\djj_work\djjwork\work\华夏团餐\tuancan\images\h" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8f48ffd-c72e-4734-b33d-77acf2b26fa6" name="Default" comment="" />
+      <created>1527747288119</created>
+      <option name="number" value="Default" />
+      <updated>1527747288119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22864583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1285" y="456" width="444" height="169" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/续费.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/aa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3220" column="23" selection-start-line="3220" selection-start-column="23" selection-end-line="3220" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关于我们.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/招聘信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="47" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/aa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/成功案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="120" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/供应商.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="952" column="22" selection-start-line="948" selection-start-column="16" selection-end-line="952" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/aa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心-账号管理-修改密码.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/h.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="366" column="1" selection-start-line="366" selection-start-column="1" selection-end-line="366" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/weui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/second.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/aptitude.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9836779">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wow.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/weui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/h/tx.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/注册.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.935484">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/登录.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/成功案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.483871">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/联系我们.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.354838">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行业动态详情.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77903044">
+          <caret line="75" column="26" selection-start-line="51" selection-start-column="20" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关于我们.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/招聘信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.741936">
+          <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心-账号管理-实名认证.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.806452">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.612903">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../人银金融/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.1536388">
+          <caret line="850" column="0" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心-账号管理-公司资料.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.064516">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.42600277">
+          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/发布信息-我的信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.967742">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="124" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心-信息发布.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.806452">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/h.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9504505">
+          <caret line="693" column="23" selection-start-line="693" selection-start-column="23" selection-end-line="693" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心-订单管理.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4396844">
+          <caret line="7" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/个人中心-账号管理-修改密码.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024802705">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/续费.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.548388">
+          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/供应商.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7096774">
+          <caret line="963" column="6" selection-start-line="963" selection-start-column="6" selection-end-line="963" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/aa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2977" column="27" selection-start-line="2977" selection-start-column="27" selection-end-line="2977" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/需求大厅.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.885246">
+          <caret line="927" column="54" selection-start-line="927" selection-start-column="54" selection-end-line="927" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#6;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#8;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#7;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#8;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#9;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#10;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#12;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#14;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行业动态.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.741936">
+          <caret line="156" column="22" selection-start-line="48" selection-start-column="16" selection-end-line="156" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/需求大厅详情.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70011276">
+          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

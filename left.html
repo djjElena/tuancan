@@ -1,0 +1,42 @@
+<div>
+    <div class="member_img">
+        <div class="vip_img">
+            <img src="images/h/tx.png" alt=""/>
+        </div>
+        <h4>华夏团餐网</h4>
+        <p>我的等级：普通会员 </p>
+        <p>我的手机：<em class="org">15732456987</em></p>
+    </div>
+    <div class="left-nav">
+        <ul>
+            <li><a href="#"> <i class="iconfont icon-ziyuan"></i>首页 </a> </li>
+            <li class="active"><a href="javascript:;"> <i class="iconfont icon-yewu"></i>订单管理  <b></b> </a>
+                <div class="hide_list">
+                    <p><a href="#">已付订单</a></p>
+                    <p><a href="#">未付订单 </a></p>
+                </div>
+            </li>
+            <li><a href="javascript:;"> <i class="iconfont icon-wode"></i>账号管理<b></b></a>
+                <div class="hide_list">
+                    <p><a href="#">公司资料</a></p>
+                    <p><a href="#">实名认证 </a></p>
+                    <p><a href="#">修改密码 </a></p>
+                </div>
+            </li>
+
+            <li><a href="javascript:;"> <i class="iconfont icon-fabu"></i>发布信息<b></b></a>
+                <div class="hide_list">
+                    <p><a href="#">发布信息</a></p>
+                    <p><a href="#">我的信息</a></p>
+                </div>
+            </li>
+
+            <li><a href="#"> <i class="iconfont icon-tuichu5"></i>退出<b></b></a></li>
+        </ul>
+    </div>
+</div>
+<script>
+    $(".left-nav li").click(function(){
+        $(this).addClass("active").siblings().removeClass("active")
+    })
+</script>

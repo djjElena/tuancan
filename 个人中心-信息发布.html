@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta charset="gb2312">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=dege"/>
+    <meta name="format-detection" content="telephone=no" />
+    <title> 华夏团餐 </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/swiper.min.css"/>
+    <link rel="stylesheet" href="css/animate.min.css"/>
+    <link href="images/favicon.ico" rel="icon" type="images/x-icon">
+    <link rel="stylesheet" href="css/reset.css">
+    <!--<link rel="stylesheet" href="css/headfoot.css">-->
+    <!--<link rel="stylesheet" href="css/index.css">-->
+    <link rel="stylesheet" href="http://at.alicdn.com/t/font_911409_6owz6qjigrn.css"/>
+    <link rel="stylesheet" href="css/h.css">
+    <link rel="stylesheet" href="css/aa.css">
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/aptitude.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/weui.js"></script>
+    <script src="js/jquery.SuperSlide.2.1.1.js"></script>
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!--头部部分-->
+<div class="heads">
+    <script>$(".heads").load("head.html");</script>
+</div>
+<!--二级页面banner-->
+<div class="personal">
+    <div class="main-in">
+        <div class="member-inner-box">
+            <div class="member_lf">
+                <div class="nem_lf">
+                    <script>$(".nem_lf").load("left.html");</script>
+                </div>
+            </div>
+            <div class="member_rt">
+                <h3 class="member_h3">
+                    <b></b>  发布信息
+                </h3>
+                <div class="member-inner-cont">
+                    <div class="release_cont">
+                        <ul>
+                            <li>
+                                <div class="release_lf">
+                                    <b>  企业名称： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <input type="text"/>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b> 所在地： </b>
+                                </div>
+                                <div class="release_rt content">
+                                    <script class="resources library" src="js/area.js" type="text/javascript"></script>
+                                    <select id="s_province" name="s_province" class="selfgz"></select>
+                                    <select id="s_city" name="s_city" class="selfgz" ></select>
+                                    <select id="s_county" name="s_county"class="selfgz" ></select>
+                                    <script type="text/javascript">_init_area();</script>
+                                    <!--<span class="jia"> + </span> <span class="jian"> -   </span>-->
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>    联系人： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <input type="text"/>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>   联系电话： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <input type="text"/>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>  工商营业执照号码： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <input type="text"/>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>  工商营业执照有效期： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <input type="text"/>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>类别： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <label for=""><input type="checkbox"/>不限</label>
+                                    <label for=""><input type="checkbox"/>餐厅承包</label>
+                                    <label for=""><input type="checkbox"/>食堂装修</label>
+                                    <label for=""><input type="checkbox"/>厨房设备</label>
+                                    <label for=""><input type="checkbox"/>收银设备</label>
+                                    <label for=""><input type="checkbox"/>蔬菜采购</label>
+                                    <label for=""><input type="checkbox"/>肉类采购</label>
+                                    <label for=""><input type="checkbox"/>调料</label>
+                                    <label for=""><input type="checkbox"/>酒水</label>
+                                    <label for=""><input type="checkbox"/>茶叶</label>
+                                    <label for=""><input type="checkbox"/>水果采购</label>
+                                    <label for=""><input type="checkbox"/>半成品采购</label>
+                                    <label for=""><input type="checkbox"/>卫生防护</label>
+                                    <label for=""><input type="checkbox"/>工作服装</label>
+                                    <label for=""><input type="checkbox"/>一次性用品</label>
+                                    <label for=""><input type="checkbox"/>其他</label>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>分类：</b>
+                                </div>
+                                <div class="release_rt">
+                                    <label for=""><input type="checkbox"/>不限</label>
+                                    <label for=""><input type="checkbox"/>政府机关餐厅</label>
+                                    <label for=""><input type="checkbox"/>学校餐厅</label>
+                                    <label for=""><input type="checkbox"/>集团餐厅</label>
+                                    <label for=""><input type="checkbox"/>科技园区餐厅</label>
+                                    <label for=""><input type="checkbox"/>医院餐厅</label>
+                                    <label for=""><input type="checkbox"/>会议餐厅</label>
+                                    <label for=""><input type="checkbox"/>酒楼餐厅</label>
+                                    <label for=""><input type="checkbox"/>酒店餐厅</label>
+                                    <label for=""><input type="checkbox"/>部队餐厅</label>
+                                    <label for=""><input type="checkbox"/>航空餐厅</label>
+                                    <label for=""><input type="checkbox"/>铁路餐厅</label>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>价格：</b>
+                                </div>
+                                <div class="release_rt">
+                                    <label for=""><input type="checkbox"/>不限</label>
+                                    <label for=""><input type="checkbox"/>1万以下</label>
+                                    <label for=""><input type="checkbox"/>1~5万</label>
+                                    <label for=""><input type="checkbox"/>5~10万</label>
+                                    <label for=""><input type="checkbox"/>10~20万</label>
+                                    <label for=""><input type="checkbox"/>20~50万</label>
+                                    <label for=""><input type="checkbox"/>50~100万</label>
+                                    <label for=""><input type="checkbox"/>100万以上</label>
+                                </div>
+                            </li>
+
+                            <li>
+                                <div class="release_lf">
+                                    <b>证书注册情况：</b>
+                                </div>
+                                <div class="release_rt">
+                                    <label for=""><input type="radio" name="zs"/> 初始 </label>
+                                    <label for=""><input type="radio" name="zs"/>转注</label>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>寻证类型：</b>
+                                </div>
+                                <div class="release_rt">
+                                    <label for=""><input type="radio" name="qk"/>兼职 </label>
+                                    <label for=""><input type="radio" name="qk"/>全职</label>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>  费用： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <input type="text"/>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b>  营业执照图片： </b>
+                                </div>
+                                <div class="release_rt">
+                                    <span> <img src="images/h/jia.jpg" alt=""/> </span>
+                                    <span> <img src="images/h/jia.jpg" alt=""/> </span>
+                                    <span> <img src="images/h/jia.jpg" alt=""/> </span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="release_lf">
+                                    <b> </b>
+                                </div>
+                                <div class="release_rt">
+                                    <a href="#"> 保存 </a><a href="#"> 提交 </a>
+                                </div>
+
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="both"></div>
+        </div>
+    </div>
+</div>
+<!--页尾-->
+<div class="foots wow fadeInUp animated">
+    <script>$(".foots").load("foot.html");</script>
+</div>
+<script>
+
+</script>
+</body>
+</html>

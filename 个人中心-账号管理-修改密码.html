@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta charset="gb2312">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=dege"/>
+    <meta name="format-detection" content="telephone=no" />
+    <title> 华夏团餐 </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/swiper.min.css"/>
+    <link rel="stylesheet" href="css/animate.min.css"/>
+    <link href="images/favicon.ico" rel="icon" type="images/x-icon">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/headfoot.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/h.css">
+    <link rel="stylesheet" href="http://at.alicdn.com/t/font_911409_6owz6qjigrn.css"/>
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/aptitude.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/weui.js"></script>
+    <script src="js/jquery.SuperSlide.2.1.1.js"></script>
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!--头部部分-->
+<div class="heads">
+    <script>$(".heads").load("head.html");</script>
+</div>
+<!--二级页面banner-->
+    <div class="personal">
+        <div class="main-in">
+            <div class="member-inner-box">
+                <div class="member_lf">
+                    <div class="nem_lf">
+                        <script>$(".nem_lf").load("left.html");</script>
+                    </div>
+                </div>
+                <div class="member_rt">
+                    <h3 class="member_h3">
+                      <b></b>  账号管理-修改密码
+                    </h3>
+                    <div class="member-inner-cont">
+                        <div class="release_cont">
+                            <ul>
+                                <li>
+                                    <div class="release_lf">
+                                        <b>原始密码： </b>
+                                    </div>
+                                    <div class="release_rt">
+                                        <input type="text"/>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="release_lf">
+                                        <b>手机验证码： </b>
+                                    </div>
+                                    <div class="release_rt">
+                                        <input class="yzm" type="text" name="yzm">
+                                        <a href="" class="hq">获取验证码</a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="release_lf">
+                                        <b> 新密码： </b>
+                                    </div>
+                                    <div class="release_rt">
+                                        <input type="text"/>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="release_lf">
+                                        <b> 新密码： </b>
+                                    </div>
+                                    <div class="release_rt">
+                                        <input type="text"/>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="release_lf">
+                                        <b> </b>
+                                    </div>
+                                    <div class="release_rt">
+                                        <a href="#"> 保存 </a><a href="#"> 提交 </a>
+                                    </div>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="both"></div>
+            </div>
+        </div>
+    </div>
+<!--页尾-->
+<div class="foots wow fadeInUp animated">
+    <script>$(".foots").load("foot.html");</script>
+</div>
+<script>
+    $('.jia').click(function(event) {
+        var myDom = $(this).parent('.release_rt').clone(true);
+        $(this).parent('.release_rt').after(myDom);
+    });
+
+    $('.jian').click(function(event) {
+        var className = $(this).parent('.release_rt').attr('class').split(' ')[1];
+        if($('.' + className).length <= 1){
+            return ;
+        }
+        $(this).parent('.release_rt').remove();
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta charset="gb2312">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=dege"/>
+    <meta name="format-detection" content="telephone=no" />
+    <title> 华夏团餐 </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/swiper.min.css"/>
+    <link rel="stylesheet" href="css/animate.min.css"/>
+    <link href="images/favicon.ico" rel="icon" type="images/x-icon">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/headfoot.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_911409_6v4lxcm9eow.css">
+    <link rel="stylesheet" href="css/aa.css">
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/aptitude.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/weui.js"></script>
+    <script src="js/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=nxW0akynjKF8Ag0G0uVVwq0t6ak1Q1Zj"></script>
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="main">
+    <div class="main-md">
+        <div class="main-tit">
+            <h2>
+                当前位置：
+                <a href="#">首页</a>
+                &nbsp;&nbsp;&gt;&nbsp;&nbsp;
+                <a href="#" class="org">联系我们</a>
+            </h2>
+        </div>
+        <div class="hydt">
+            <div class="hydt-top">
+                <ul>
+                    <li><a href=""> 关于我们</a></li>
+                    <li><a href=""> 招聘信息</a></li>
+                    <li class="active"><a href=""> 联系我们</a></li>
+                </ul>
+            </div>
+            <div class="room-lf">
+                <div class="ct-gg ">
+                    <div class="lx">
+                        <ul>
+                            <li>
+                                <b></b>
+                                <div class="ew">
+                                    <h4>联系方式</h4>
+                                    <p>电话：400-023-0001 <br/>
+                                        邮箱：tuancan@163.com</p>
+                                </div>
+                                <div class="both"></div>
+                            </li>
+                            <li>
+                                <b></b>
+                                <div class="ew">
+                                    <h4>联系地址</h4>
+                                    <p>北京市朝阳区北四环东路</p>
+                                </div>
+                                <div class="both"></div>
+                            </li>
+                            <li>
+                                <b></b>
+                                <div class="ew">
+                                    <h4>华夏团餐网官方微信</h4>
+                                    <div class="erw">
+                                        <img src="images/h/erw.jpg" alt=""/>
+                                    </div>
+                                </div>
+                                <div class="both"></div>
+                            </li>
+                            <div class="both"></div>
+                        </ul>
+                        <div style="border:#ccc solid 1px;font-size:12px" id="map"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="room-rt">
+                <div class="room-rt-top">
+                    <h1><b></b>&nbsp;&nbsp;&nbsp;&nbsp;推荐资讯&nbsp;&nbsp;&nbsp;&nbsp;<b></b></h1>
+                    <img src="images/h/cbs_03.jpg" alt=""/>
+                    <ul>
+                        <li><a href=""><i></i>餐饮市场规模达4.2万亿元点如何？</a></li>
+                        <li><a href=""><i></i>餐饮大佬搅局“餐+饮”...</a></li>
+                        <li><a href=""><i></i>北京传统早餐日渐衰落</a></li>
+                        <li><a href=""><i></i>2019中央厨房建设</a></li>
+                        <li><a href=""><i></i>餐企“渣节”过时了？</a></li>
+                        <li><a href=""><i></i>它靠一个美食节来客数增长68%!</a></li>
+                        <li><a href=""><i></i>餐饮市场规模达4.2万亿元点如何？</a></li>
+                        <li><a href=""><i></i>餐饮大佬搅局“餐+饮”...</a></li>
+                        <li><a href=""><i></i>北京传统早餐日渐衰落</a></li>
+                        <li><a href=""><i></i>2019中央厨房建设</a></li>
+                        <li><a href=""><i></i>餐企“渣节”过时了？</a></li>
+                        <li><a href=""><i></i>它靠一个美食节来客数增长68%!</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    /*百度地图*/
+    $(function(){
+        var map = new BMap.Map("map");
+        var point = new BMap.Point(116.318508,40.042228);
+        map.centerAndZoom(point, 18);                 // 初始化地图，设置中心点坐标和地图级别
+        //添加导航控件
+        map.addControl(new BMap.NavigationControl());
+        //添加缩放控件
+        map.addControl(new BMap.ScaleControl());
+        //添加概览图
+        map.addControl(new BMap.OverviewMapControl());
+        //添加地图类型控件
+        map.addControl(new BMap.MapTypeControl());
+        var marker = new BMap.Marker(point);
+        //默认动画
+        marker.setAnimation(BMAP_ANIMATION_BOUNCE);
+        //创建标注
+        map.addOverlay(marker);         //将标注添加到地图中
+        map.enableScrollWheelZoom();   //启用滚轮放大缩小，默认禁用
+        //信息提示的窗口
+        var opts = {
+            width : 100,     // 信息窗口宽度
+            height: 40,     // 信息窗口高度
+            title : "北京大商兴业科技发展有限公司" , // 信息窗口标题
+            enableMessage:true//设置允许信息窗发送短息
+        };
+        var infoWindow = new BMap.InfoWindow("地址：北京市朝阳区北四环东路", opts);  // 创建信息窗口对象
+        map.openInfoWindow(infoWindow,point); //开启信息窗口
+        marker.addEventListener("click", function(){
+            map.openInfoWindow(infoWindow,point); //开启信息窗口
+        });
+    })
+</script>
+</body>
+</html>

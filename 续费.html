@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta charset="gb2312">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=dege"/>
+    <meta name="format-detection" content="telephone=no" />
+    <title> 华夏团餐 </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/swiper.min.css"/>
+    <link rel="stylesheet" href="css/animate.min.css"/>
+    <link href="images/favicon.ico" rel="icon" type="images/x-icon">
+    <link rel="stylesheet" href="css/reset.css">
+    <!--<link rel="stylesheet" href="css/headfoot.css">-->
+    <!--<link rel="stylesheet" href="css/index.css">-->
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_911409_6eitr2w90dh.css"/>
+    <link rel="stylesheet" href="css/h.css">
+    <link rel="stylesheet" href="css/aa.css">
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+</head>
+<body>
+<!--头部部分-->
+<div class="heads">
+    <script>$(".heads").load("head.html");</script>
+</div>
+<!--二级页面banner-->
+<div class="personal">
+    <div class="main-in">
+        <div class="member-inner-box">
+            <div class="member_lf">
+                <div class="nem_lf">
+                    <script>$(".nem_lf").load("left.html");</script>
+                </div>
+            </div>
+            <div class="member_rt">
+                <h3 class="member_h3">
+                    <b></b>  已付订单
+                </h3>
+                <div class="member-inner-cont">
+                    <div class="leaflets margin_20 xufeilist">
+                        <h1>会员等级：</h1>
+                        <div class="xufei">
+                            <ul>
+                                <li class="active">
+                                    <h1>初级会员</h1>
+                                    <p class="cj">
+                                        <i class="iconfont icon-xingxing"></i>
+                                        <i class="iconfont icon-xingxing"></i>
+                                        <i class="iconfont icon-xingxing"></i>
+                                    </p>
+                                    <h2>¥ <span>0</span> 元/年</h2>
+                                </li>
+                                <li>
+                                    <h1>黄金级会员</h1>
+                                    <p class="hj">
+                                        <i class="iconfont icon-xingxing"></i>
+                                        <i class="iconfont icon-xingxing"></i>
+                                        <i class="iconfont icon-xingxing"></i>
+                                    </p>
+
+                                    <h2>¥ <span>5000</span> 元/年</h2>
+                                </li>
+                                <li>
+                                    <h1>钻石级会员</h1>
+                                    <p class="zs">
+                                        <i class="iconfont icon-zuanshi"></i>
+                                        <i class="iconfont icon-zuanshi"></i>
+                                        <i class="iconfont icon-zuanshi"></i>
+                                        <i class="iconfont icon-zuanshi"></i>
+                                    </p>
+                                    <h2>¥ <span>20000</span> 元/年</h2>
+                                </li>
+                                <li>
+                                    <h1>皇冠级会员</h1>
+                                    <p class="hg">
+                                        <i class="iconfont icon-huangguan"></i>
+                                        <i class="iconfont icon-huangguan"></i>
+                                        <i class="iconfont icon-huangguan"></i>
+                                        <i class="iconfont icon-huangguan"></i>
+                                        <i class="iconfont icon-huangguan"></i>
+                                    </p>
+                                    <h2>¥ <span>50000</span> 元/年</h2>
+                                </li>
+                            </ul>
+                        </div>
+                        <h1>支付方式：</h1>
+                        <div class="payways">
+                            <ul>
+                                <li class="active"><img src="images/h/js-zfb.jpg" alt=""/><i></i></li>
+                                <li><img src="images/h/js-wx.jpg" alt=""/><i></i></li>
+                                <li><img src="images/h/js-yl.jpg" alt=""/><i></i></li>
+                            </ul>
+                        </div>
+                        <h1>结算信息：</h1>
+                        <div class="jiesuan">
+                            <h1>总额：<span class="org">¥ 2000</span></h1>
+                        </div>
+
+                        <div class="quxufei">
+                            <a href="">去续费</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="both"></div>
+        </div>
+    </div>
+</div>
+
+
+<!--页尾-->
+<div class="foots wow fadeInUp animated">
+    <script>$(".foots").load("foot.html");</script>
+</div>
+<script>
+    $('.xufei ul li').click(function () {
+        $(this).addClass('active');
+        $(this).siblings('li').removeClass('active');
+    })
+
+    $('.payways ul li').click(function () {
+        $(this).addClass('active');
+        $(this).siblings('li').removeClass('active');
+    })
+</script>
+</body>
+</html>
